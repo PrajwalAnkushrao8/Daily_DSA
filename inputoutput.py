@@ -8,3 +8,7 @@
 #for Java : System.out.print();
 #for Python : print()
 #for Javascript : console.log()
+
+num = int(input("enter the number"))
+
+print(num)
