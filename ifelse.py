@@ -21,7 +21,6 @@ def getGrade(marks):
     else:
         return "Fail"
 
-# Call the function and print the grade
 grade = getGrade(marks)
 print(f"Your grade is: {grade}")
 
