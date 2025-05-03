@@ -26,7 +26,7 @@ for i in range(1,2*n):
         for j in range(i):
             print("*",end="")
         print()
-    elif i>n:
+    else:
         for j in range((2*n)-i):
             print("*",end="")
         print()
